@@ -1,0 +1,15 @@
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\bin\Debug\net7.0\Traffic.exe
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\bin\Debug\net7.0\Traffic.deps.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\bin\Debug\net7.0\Traffic.runtimeconfig.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\bin\Debug\net7.0\Traffic.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\bin\Debug\net7.0\Traffic.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.csproj.AssemblyReference.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.AssemblyInfoInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.AssemblyInfo.cs
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\refint\Traffic.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\Traffic.genruntimeconfig.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Traffic\obj\Debug\net7.0\ref\Traffic.dll
