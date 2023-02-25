@@ -1,0 +1,35 @@
+[
+  {
+    "FirstName": "suhani",
+    "LastName": "pandey",
+    "Age": 20,
+    "Height": 156,
+    "IsMarried": false,
+    "Hobbies": null,
+    "Sex": "F"
+  },
+  {
+    "FirstName": "rajip",
+    "LastName": "paudyal",
+    "Age": 20,
+    "Height": 177,
+    "IsMarried": true,
+    "Hobbies": [
+      "Talking",
+      "Beating"
+    ],
+    "Sex": "M"
+  },
+  {
+    "FirstName": "Pramesh",
+    "LastName": "Shrestha",
+    "Age": 20,
+    "Height": 186,
+    "IsMarried": true,
+    "Hobbies": [
+      "Teaching",
+      "Singing--heheeee"
+    ],
+    "Sex": "M"
+  }
+]

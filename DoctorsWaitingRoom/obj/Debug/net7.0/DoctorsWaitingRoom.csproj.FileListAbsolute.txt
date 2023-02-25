@@ -1,0 +1,15 @@
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\bin\Debug\net7.0\DoctorsWaitingRoom.exe
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\bin\Debug\net7.0\DoctorsWaitingRoom.deps.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\bin\Debug\net7.0\DoctorsWaitingRoom.runtimeconfig.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\bin\Debug\net7.0\DoctorsWaitingRoom.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\bin\Debug\net7.0\DoctorsWaitingRoom.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.csproj.AssemblyReference.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.AssemblyInfoInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.AssemblyInfo.cs
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\refint\DoctorsWaitingRoom.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\DoctorsWaitingRoom.genruntimeconfig.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\DoctorsWaitingRoom\obj\Debug\net7.0\ref\DoctorsWaitingRoom.dll

@@ -1,0 +1,15 @@
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\bin\Debug\net7.0\JSonIntro.exe
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\bin\Debug\net7.0\JSonIntro.deps.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\bin\Debug\net7.0\JSonIntro.runtimeconfig.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\bin\Debug\net7.0\JSonIntro.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\bin\Debug\net7.0\JSonIntro.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.csproj.AssemblyReference.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.AssemblyInfoInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.AssemblyInfo.cs
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\refint\JSonIntro.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\JSonIntro.genruntimeconfig.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\JSonIntro\obj\Debug\net7.0\ref\JSonIntro.dll

@@ -1,0 +1,15 @@
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\bin\Debug\net7.0\CarPredicates.exe
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\bin\Debug\net7.0\CarPredicates.deps.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\bin\Debug\net7.0\CarPredicates.runtimeconfig.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\bin\Debug\net7.0\CarPredicates.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\bin\Debug\net7.0\CarPredicates.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.csproj.AssemblyReference.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.AssemblyInfoInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.AssemblyInfo.cs
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\refint\CarPredicates.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\CarPredicates.genruntimeconfig.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\CarPredicates\obj\Debug\net7.0\ref\CarPredicates.dll
