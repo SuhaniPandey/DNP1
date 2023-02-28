@@ -30,13 +30,20 @@ public class Server
             using NetworkStream stream = client.GetStream();
 
             // read
-            byte[] dataFromClient = new byte[1024];
-            int bytesRead = stream.Read(dataFromClient, 0, dataFromClient.Length);
-            string s = Encoding.ASCII.GetString(dataFromClient, 0, bytesRead);
-            Console.WriteLine(s);
+            while (true) {
+                Console.WriteLine("Inside Loop");
+                byte[] dataFromClient = new byte[1024];
+                int bytesRead = stream.Read(dataFromClient, 0, dataFromClient.Length);
+                string s = Encoding.ASCII.GetString(dataFromClient, 0, bytesRead);
+                Console.WriteLine(s);
+                if (s.ToLower().Equals("exit")) {
+                    break;
+                }
+                // respond
+                byte[] dataToClient = Encoding.ASCII.GetBytes($"Returning {s}");
+                stream.Write(dataToClient, 0, dataToClient.Length);
+                
+            }
 
-            // respond
-            byte[] dataToClient = Encoding.ASCII.GetBytes($"Returning {s}");
-            stream.Write(dataToClient, 0, dataToClient.Length);
         }
 }
