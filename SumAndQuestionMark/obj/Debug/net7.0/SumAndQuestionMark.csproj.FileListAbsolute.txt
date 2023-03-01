@@ -1,0 +1,15 @@
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\bin\Debug\net7.0\SumAndQuestionMark.exe
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\bin\Debug\net7.0\SumAndQuestionMark.deps.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\bin\Debug\net7.0\SumAndQuestionMark.runtimeconfig.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\bin\Debug\net7.0\SumAndQuestionMark.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\bin\Debug\net7.0\SumAndQuestionMark.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.csproj.AssemblyReference.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.AssemblyInfoInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.AssemblyInfo.cs
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\refint\SumAndQuestionMark.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\SumAndQuestionMark.genruntimeconfig.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\SumAndQuestionMark\obj\Debug\net7.0\ref\SumAndQuestionMark.dll

@@ -3,4 +3,4 @@
 using KthLargestNumber;
 
 LargestNumber largestNumber= new LargestNumber();
-largestNumber.Largest(new []{1,3,0,4,2,1,3},4);
+largestNumber.Largest(new []{2,5,6,8,9,2,5,7,2,1,0},4);
