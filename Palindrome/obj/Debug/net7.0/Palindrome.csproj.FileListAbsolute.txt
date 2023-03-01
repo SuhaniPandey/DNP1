@@ -1,0 +1,15 @@
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\bin\Debug\net7.0\Palindrome.exe
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\bin\Debug\net7.0\Palindrome.deps.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\bin\Debug\net7.0\Palindrome.runtimeconfig.json
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\bin\Debug\net7.0\Palindrome.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\bin\Debug\net7.0\Palindrome.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.csproj.AssemblyReference.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.AssemblyInfoInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.AssemblyInfo.cs
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.csproj.CoreCompileInputs.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\refint\Palindrome.dll
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.pdb
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\Palindrome.genruntimeconfig.cache
+C:\Users\iamsu\RiderProjects\ProgrammingSecondSession\Palindrome\obj\Debug\net7.0\ref\Palindrome.dll
